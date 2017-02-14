@@ -118,8 +118,7 @@ public class BorderExample {
         });
         
         System.out.println("1299999");
-        System.out.println(" Changes made to check git hub updates 1");
-         System.out.println(" Changes made to check git hub updates 2");
+        System.out.println("Updated version 1");
          
     }
 }
